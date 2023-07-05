@@ -1,3 +1,20 @@
 .leaflet-container {
     background-color: white;
 }
+.single-event-marker{
+    opacity: .9;
+    filter: hue-rotate(160deg);
+}
+.colFlex {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.rowFlex {
+    display: flex;
+    justify-content: space-between;
+}
+.boxSizing {
+
+}
